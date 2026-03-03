@@ -1,0 +1,16 @@
+{
+  "user_id": "user_crediclub_9876",
+  "first_name": "Alejandro",
+  "bnpl_profile": {
+    "status": "PRE_APPROVED",
+    "pre_approved_limit": 12500,
+    "currency": "MXN",
+    "expiration_date": "2026-03-31",
+    "credit_score_tier": "Gold"
+  },
+  "available_offer": {
+    "offer_id": "WELCOME_3MSI",
+    "description": "3 Meses Sin Intereses en tu primera compra",
+    "min_purchase": 500
+  }
+}
